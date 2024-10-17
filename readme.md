@@ -3,7 +3,7 @@ Funcionará de forma similar al Facebook Marketplace, en la que se podrán visua
 
 Esta será la paleta de colores que utilizaremos:
 
-![Captura de pantalla de 2024-10-17 14-56-42](https://github.com/user-attachments/assets/1f4cf19d-2cc9-409e-9b17-f7694d8ffd61)
+![paleta-codigos](https://github.com/user-attachments/assets/446a2020-43ca-4ef1-8e7b-c020a234a526)
 
 Estas son las Wireframes:
 
