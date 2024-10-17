@@ -14,7 +14,9 @@ Esta será la paleta de colores que utilizaremos:
 ![Login](https://github.com/user-attachments/assets/09cd40b2-2ede-4dcf-8a04-7c819c1d6a6f)
 
 ### Home
-![Home](https://github.com/user-attachments/assets/400809a1-34f6-43be-bfcc-e2ac17b82f4d)
+![Home](https://github.com/user-attachments/assets/6bff4976-5a54-4017-bb4a-cc3056056d04)
+
+
 
 ### Details
 ![Details](https://github.com/user-attachments/assets/66835cac-f3cf-4496-b01c-ecff821b98f3)
