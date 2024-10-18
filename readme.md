@@ -7,11 +7,13 @@ Funcionará de forma similar al Facebook Marketplace, en la que se podrán visua
 
 Estas serán las paletas de colores que utilizaremos:
 
-### Terminal![colors-vault-tec](https://github.com/user-attachments/assets/50f92bf3-2b7c-4ef5-ad72-2fbcfe613891)
+### Terminal
+
+![colors](https://github.com/user-attachments/assets/b7d24fe4-28e0-49cc-a31b-016ba45a7644)
 
 ### Vaut-Tec
 
-![colors](https://github.com/user-attachments/assets/b7d24fe4-28e0-49cc-a31b-016ba45a7644)
+![colors-vault-tec](https://github.com/user-attachments/assets/50f92bf3-2b7c-4ef5-ad72-2fbcfe613891)
 
 ## Wireframes
 
