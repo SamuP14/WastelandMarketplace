@@ -6,7 +6,8 @@ Funcionará de forma similar al Facebook Marketplace, en la que se podrán visua
 
 Esta será la paleta de colores que utilizaremos:
 
-![paleta](https://github.com/user-attachments/assets/ef449d53-4e03-43c2-ab61-e10dc29fb844)
+
+![colors](https://github.com/user-attachments/assets/b7d24fe4-28e0-49cc-a31b-016ba45a7644)
 
 
 ## Wireframes
