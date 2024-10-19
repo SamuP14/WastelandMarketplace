@@ -3,6 +3,8 @@
 La aplicación web será un mercado online en el que se puede vender, comprar y solicitar productos o servicios ambientado en el universo postapocalíptico de Fallout.
 Funcionará de forma similar al Facebook Marketplace, en la que se podrán visualizar varias ventas de productos, así como publicar tus propias ventas, o incluso solicitar ciertos productos.
 
+>Trabajo realizado por Samuel Pérez y Mario Pérez
+
 ## Paleta de Colores
 
 Estas serán las paletas de colores que utilizaremos:
@@ -26,7 +28,7 @@ Estas serán las paletas de colores que utilizaremos:
 ### Details
 ![Details](https://github.com/user-attachments/assets/66835cac-f3cf-4496-b01c-ecff821b98f3)
 
-##Mokups
+## Mokups
 
 ### Desktop
 
