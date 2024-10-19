@@ -28,7 +28,7 @@ Estas serán las paletas de colores que utilizaremos:
 ### Details
 ![Details](https://github.com/user-attachments/assets/66835cac-f3cf-4496-b01c-ecff821b98f3)
 
-## Mokups
+## Mockups
 
 ### Desktop
 
